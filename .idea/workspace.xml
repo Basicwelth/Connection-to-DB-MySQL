@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94fbc834-77e8-49f9-acec-f288a20c14f0" name="Default Changelist" comment="Пример подключение к БД MySQL">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/test.org.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Query/Database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/add.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="94fbc834-77e8-49f9-acec-f288a20c14f0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,12 +54,31 @@
       <workItem from="1596269531480" duration="2244000" />
       <workItem from="1596272525013" duration="1112000" />
       <workItem from="1596275408293" duration="606000" />
-      <workItem from="1596363927881" duration="6893000" />
+      <workItem from="1596363927881" duration="7195000" />
     </task>
+    <task id="LOCAL-00001" summary="Пример подключение к БД MySQL">
+      <created>1596371859476</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596371859476</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Пример подключение к БД MySQL" />
@@ -88,10 +97,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="552" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1596265241179" />
-    <state x="577" y="70" key="CommitChangelistDialog2" timestamp="1596371798966">
+    <state x="577" y="70" key="CommitChangelistDialog2" timestamp="1596371858950">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="577" y="70" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1596371798966" />
+    <state x="577" y="70" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1596371858950" />
     <state x="740" y="335" key="FileChooserDialogImpl" timestamp="1596371512236">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -108,5 +117,9 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="461" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1596371452921" />
+    <state x="776" y="490" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596372129834">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="776" y="490" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160@0.0.1920.1160" timestamp="1596372129834" />
   </component>
 </project>

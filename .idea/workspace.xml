@@ -63,7 +63,7 @@
       <workItem from="1596269531480" duration="2244000" />
       <workItem from="1596272525013" duration="1112000" />
       <workItem from="1596275408293" duration="606000" />
-      <workItem from="1596363927881" duration="7195000" />
+      <workItem from="1596363927881" duration="7579000" />
     </task>
     <task id="LOCAL-00001" summary="Пример подключение к БД MySQL">
       <created>1596371859476</created>
@@ -72,7 +72,21 @@
       <option name="project" value="LOCAL" />
       <updated>1596371859476</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Пример подключения к БД MySQL">
+      <created>1596372168931</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596372168931</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Пример подключения к БД MySQL">
+      <created>1596372457644</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596372457644</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,13 +105,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Пример подключение к БД MySQL" />
-    <option name="LAST_COMMIT_MESSAGE" value="Пример подключение к БД MySQL" />
+    <MESSAGE value="Пример подключения к БД MySQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="Пример подключения к БД MySQL" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="235" key="#CLI_Interpreters" timestamp="1596263305232">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="540" y="235" key="#CLI_Interpreters/0.0.1920.1160@0.0.1920.1160" timestamp="1596263305232" />
+    <state x="552" y="247" key="#Deployment" timestamp="1596372410478">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="552" y="247" key="#Deployment/0.0.1920.1160@0.0.1920.1160" timestamp="1596372410478" />
     <state x="337" y="416" key="#SQL_Dialects" timestamp="1596265198018">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -106,10 +125,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="552" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1596265241179" />
-    <state x="577" y="70" key="CommitChangelistDialog2" timestamp="1596371858950">
+    <state x="577" y="70" key="CommitChangelistDialog2" timestamp="1596372457200">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="577" y="70" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1596371858950" />
+    <state x="577" y="70" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1596372457200" />
     <state x="740" y="335" key="FileChooserDialogImpl" timestamp="1596371512236">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -126,9 +145,13 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="461" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1596371452921" />
-    <state x="776" y="490" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596372129834">
+    <state x="552" y="294" key="Vcs.Push.Dialog.v2" timestamp="1596372508593">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="776" y="490" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160@0.0.1920.1160" timestamp="1596372129834" />
+    <state x="552" y="294" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1596372508593" />
+    <state x="776" y="490" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596372517353">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="776" y="490" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160@0.0.1920.1160" timestamp="1596372517353" />
   </component>
 </project>

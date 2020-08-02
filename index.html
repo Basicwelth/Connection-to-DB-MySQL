@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test page</title>
+</head>
+<body>
+<h1>
+    This page for test php script
+</h1>
+<form action="add.php" method="post" enctype="multipart/form-data">
+    <input type="text" placeholder="Enter name:" name="name">
+    <input type="text" placeholder="Enter surname:" name="surname">
+    <input type="text" placeholder="Enter lastname:" name="lastname">
+    <button type="submit">Add</button>
+</form>
+<!-- Тип кодирования данных, enctype, ДОЛЖЕН БЫТЬ указан ИМЕННО так -->
+<form enctype="multipart/form-data" action="add.php" method="POST">
+    <!-- Поле MAX_FILE_SIZE должно быть указано до поля загрузки файла -->
+    <input type="hidden" name="MAX_FILE_SIZE" value="30000" />
+    <!-- Название элемента input определяет имя в массиве $_FILES -->
+    Отправить этот файл: <input name="userfile" type="file" />
+    <input type="submit" value="Отправить файл" />
+</form>
+</body>
+</html>

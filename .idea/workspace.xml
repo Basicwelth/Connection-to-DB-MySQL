@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94fbc834-77e8-49f9-acec-f288a20c14f0" name="Default Changelist" comment="Пример подключение к БД MySQL">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test.org.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Query/Database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="D:\Program Files\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1fUBdvdfcrb1s77D1zffCAlOUlj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="W:\domains\test.org\Database" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94fbc834-77e8-49f9-acec-f288a20c14f0" name="Default Changelist" comment="" />
+      <created>1596262881336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596262881336</updated>
+      <workItem from="1596262882428" duration="4624000" />
+      <workItem from="1596268320107" duration="347000" />
+      <workItem from="1596269256698" duration="115000" />
+      <workItem from="1596269531480" duration="2244000" />
+      <workItem from="1596272525013" duration="1112000" />
+      <workItem from="1596275408293" duration="606000" />
+      <workItem from="1596363927881" duration="6893000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Пример подключение к БД MySQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="Пример подключение к БД MySQL" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="235" key="#CLI_Interpreters" timestamp="1596263305232">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="540" y="235" key="#CLI_Interpreters/0.0.1920.1160@0.0.1920.1160" timestamp="1596263305232" />
+    <state x="337" y="416" key="#SQL_Dialects" timestamp="1596265198018">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="337" y="416" key="#SQL_Dialects/0.0.1920.1160@0.0.1920.1160" timestamp="1596265198018" />
+    <state x="552" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596265241179">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="552" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1596265241179" />
+    <state x="577" y="70" key="CommitChangelistDialog2" timestamp="1596371798966">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="577" y="70" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1596371798966" />
+    <state x="740" y="335" key="FileChooserDialogImpl" timestamp="1596371512236">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="335" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1596371512236" />
+    <state x="791" y="287" key="NewPhpClassDialog" timestamp="1596263020826">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="791" y="287" key="NewPhpClassDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1596263020826" />
+    <state x="795" y="499" key="NewPhpFileDialog" timestamp="1596263464645">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="795" y="499" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1596263464645" />
+    <state x="461" y="225" key="SettingsEditor" timestamp="1596371452921">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="461" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1596371452921" />
+  </component>
+</project>
